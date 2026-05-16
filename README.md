@@ -146,6 +146,3 @@ Database:
 
 * MongoDB Atlas
 
-## Author
-
-Rahul Raj

@@ -44,7 +44,7 @@ A full-stack quiz platform built using the MERN stack with authentication, quiz 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/abhiyendru01/Edu-hub.git
+git clone https://github.com/ManviGuleria/Edu-hub.git
 cd Edu-hub
 ```
 
